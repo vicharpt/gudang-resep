@@ -1,0 +1,144 @@
+[
+  {
+    "kategory": "makanan",
+    "active": true,
+    "title": "Rendang Padang",
+    "img": "https://www.frisianflag.com/storage/app/media/uploaded-files/rendang-padang.jpg",
+    "desc": [
+      {
+        "Bahan": [
+          "1 kg daging sapi",
+          "1 liter santan kental",
+          "500 ml susu UHT Frisian Flag Full Cream",
+          "3 batang serai, memarkan",
+          "5 cm kayu manis",
+          "1 butir pala",
+          "1,5 keping asam kandis",
+          "5 butir cengkeh",
+          "5 butir kapulaga",
+          "1 buah bunga lawang",
+          "1 lembar daun kunyit, ikat simpul",
+          "4 lembar daun salam",
+          "8 lembar daun jeruk"
+        ],
+        "Bumbu Halus": [
+          "100 gr cabai keriting",
+          "4 buah cabai merah, buang bijinya",
+          "10 siung bawang putih",
+          "20 siung bawang merah",
+          "2 ruas jari jahe",
+          "3 ruas jari lengkuas",
+          "2 batang serai, ambil bagian putihnya",
+          "4 cm kayu manis",
+          "2 sdm garam",
+          "1 sdt penyedap masakan"
+        ],
+        "Cara membuat": [
+          "Rebus daging sapi sampai matang dan empuk. Anda juga bisa merebus daging menggunakan presto untuk mendapatkan kematangan yang lebih cepat.",
+          "Selanjutnya, haluskan bahan bumbu rendang halus dengan blender agar lebih mudah.",
+          "Tumis bumbu yang telah dihaluskan dalam panci atau wajan dengan api kecil hingga harum.",
+          "Tambahkan serai, kayu manis, pala, asam kandis, cengkeh, kapulaga, bunga lawang, daun kunyit, daun salam, dan daun jeruk.",
+          "Tambahkan santan dan susu cair Frisian Flag Full Cream.",
+          "Masak hingga santan menjadi kental dan berminyak.",
+          "Masukkan daging sapi yang telah dimasak hingga empuk dan dipotong-potong sesuai selera.",
+          "Masak dengan api sedang sambil diaduk-aduk hingga kuah santan mengental atau menyusut.",
+          "Cek rasa rendang Padang, lalu angkat dan sajikan."
+        ]
+      }
+    ]
+  },
+  {
+    "kategory": "makanan",
+    "active": false,
+    "title": "Rendang Kering",
+    "img": "https://www.frisianflag.com/storage/app/media/uploaded-files/rendang-kering.jpg",
+    "desc": [
+      {
+        "Bahan": [
+          "1 kg daging sapi",
+          "5 lembar daun jeruk",
+          "5 lembar daun salam",
+          "2 lembar daun kunyit",
+          "5 ruas serai",
+          "1 ruas lengkuas",
+          "3 bunga lawang",
+          "5 kapulaga",
+          "1 sdt asam jawa",
+          "2 sdm gula pasir",
+          "1 sdm kaldu sapi bubuk",
+          "Garam secukupnya",
+          "500 ml santan kental",
+          "500 ml susu UHT Frisian Flag Full Cream",
+          "3 sdm minyak goreng"
+        ],
+        "Bumbu halus": [
+          "15 siung bawang merah",
+          "10 siung bawang putih",
+          "10 buah cabai merah",
+          "5 buah cabai keriting",
+          "1 ruas jahe",
+          "1 ruas kunyit",
+          "5 butir kemiri",
+          "1 sdt jinten",
+          "1 sdt ketumbar",
+          "1 sdt merica"
+        ],
+        "Cara membuat": [
+          " Haluskan bahan bumbu halus menggunakan blender atau cobek.",
+          "Panaskan minyak, lalu masukkan bumbu halus dan rempah seperti daun salam, daun kunyit, daun jeruk, serai, lengkuas, bunga lawang, kapulaga, dan asam jawa. Masak hingga harum.",
+          "Masukkan daging sapi, lalu aduk terus hingga berubah warna.",
+          "Tambahkan gula pasir, kaldu sapi, dan garam secukupnya.",
+          "Tuangkan santan dan susu cair Frisian Flag Full Cream, masak hingga menyusut sambil diaduk.",
+          "Rendang kering untuk sajian lebaran siap dihidangkan untuk keluarga besar."
+        ]
+      }
+    ]
+  },
+  {
+    "kategory": "minuman",
+    "active": false,
+    "title": "King manggo thai",
+    "img": "https://cdn-brilio-net.akamaized.net/webp/news/2019/11/21/174425/1130745-1000xauto-21-resep-minuman-kekinian-untuk-dijual-mudah-dan-praktis.jpg",
+    "desc": [
+      {
+        "Bahan": [
+          "2 buah mangga",
+          "2 sendok makan gula pasir",
+          "3 sdm susu kental manis (SKM)",
+          "50 gr whipped cream bubuk dan 100 ml air es, mixer",
+          "Secukupnya es blok untuk blender mangga"
+        ],
+        "Cara membuat": [
+          "Kupas mangga hingga bersih. Ambil sedikit mangga untuk topping, potong dadu, sisihkan.",
+          "Blender mangga, gula pasir, SKM dan es blok hingga halus.",
+          "Masukkan dalam gelas, jangan terlalu penuh, tambahkan whipped cream di atas jus mangga. Tutup dengan topping mangga potong dadu."
+        ]
+      }
+    ]
+  },
+  {
+    "kategory": "minuman",
+    "active": false,
+    "title": "Coffe milk boba",
+    "img": "https://cdn-brilio-net.akamaized.net/webp/news/2019/11/21/174425/1130747-21-resep-minuman-kekinian-untuk-dijual-mudah-dan-praktis.jpg",
+    "desc": [
+      {
+        "Bahan": [
+          "1,5 sdt kopi Nescafe classic robusta",
+          "2 sdt muncung palm sugar",
+          "50-60 gr air panas (untuk menyeduh kopi)",
+          "40 gram boba (sesuai selera)",
+          "30 gram sirup monin caramel",
+          "75-90 gram susu cair full cream (sesuai selera)",
+          "Es batu secukupnya"
+        ],
+        "Cara membuat": [
+          "Seduh kopi dan palm sugar dengan air mendidih, aduk jadi satu. Sisihkan.",
+          "Rebus air, masukkan boba. Masak sampai mengapung dan matang.",
+          "Tuang pada gelas dan campurkan dengan sirup.",
+          "Tambahkan es batu secukupnya, tuang susu cair. Masukkan seduhan kopi dan gula, aduk rata."
+        ]
+      }
+    ]
+  }
+]
