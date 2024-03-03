@@ -7,3 +7,21 @@ html {
     font-family: "poppins", sans-serif;
 }
 }
+
+.hamburger-toggle {
+    @apply flex flex-col justify-between h-5 w-5;
+}
+
+.hamburger-line {
+    @apply w-[30px] h-[2px]  bg-primary block;
+}
+
+.hamburger-active span:first-child {
+    @apply rotate-45;
+}
+.hamburger-active span:nth-child(2) {
+    @apply w-0 translate-x-0;
+}
+.hamburger-active span:last-child {
+    @apply -rotate-45;
+}
