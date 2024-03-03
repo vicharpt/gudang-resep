@@ -9,11 +9,11 @@ html {
 }
 
 .hamburger-toggle {
-    @apply flex flex-col justify-between h-5 w-5;
+    @apply flex flex-col justify-between;
 }
 
 .hamburger-line {
-    @apply w-[30px] h-[2px]  bg-primary block;
+    @apply w-[30px] h-[2px] block;
 }
 
 .hamburger-active span:first-child {
